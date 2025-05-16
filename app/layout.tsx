@@ -62,12 +62,12 @@ export default function RootLayout({
                     }}
                 >
                     <a
-                        href="https://forms.gle/koQRNCbiJ99iTEXP9"
+                        // href="https://forms.gle/koQRNCbiJ99iTEXP9"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block bg-black text-center z-[1] text-sm py-2 hover:text-primary transition-all"
                     >
-                        Take a 2-min survey for developers!
+                        Hello Everyone 👋🏻
                     </a>
                     <Navbar />
                     <main>{children}</main>

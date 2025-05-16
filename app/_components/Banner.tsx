@@ -48,7 +48,7 @@ const Banner = () => {
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
-                            Tajmirul
+                            Khizer Ali
                         </span>
                         . A creative Frontend Developer with 3+ years of
                         experience in building high-performance, scalable, and
@@ -64,6 +64,17 @@ const Banner = () => {
                     >
                         Hire Me
                     </Button>
+
+                    <Button
+                        as="link"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href={GENERAL_INFO.resume}
+                        variant="primary"
+                        className="mt-9 banner-button slide-up-and-fade ml-10"
+                    >
+                        Resume
+                    </Button>
                 </div>
 
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
@@ -77,7 +88,7 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            7+
+                            5+
                         </h5>
                         <p className="text-muted-foreground">
                             Completed Projects
@@ -85,7 +96,7 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            10K+
+                            7K+
                         </h5>
                         <p className="text-muted-foreground">Hours Worked</p>
                     </div>
