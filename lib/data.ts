@@ -7,8 +7,8 @@ export const GENERAL_INFO = {
     emailBody: 'Hi Khizer, I am reaching out to you because...',
 
     oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
-    upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
-    resume: '',
+    upworkProfile: 'https://www.upwork.com/freelancers/~01170ce7ec510bb0da',
+    resume: '/projects/resume/Khizer Ali - Software Engineer.pdf',
 };
 
 export const SOCIAL_LINKS = [
